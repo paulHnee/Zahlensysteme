@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Zahlensysteme">
+    <output-path>$PROJECT_DIR$/out/artifacts/Zahlensysteme</output-path>
+    <root id="root">
+      <element id="archive" name="Zahlensysteme.jar">
+        <element id="module-output" name="Zahlensysteme" />
+      </element>
+    </root>
+  </artifact>
+</component>
